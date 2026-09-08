@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 2a4dfe69d06488147ab9595e5b4c7ee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3239596110750105961
+    second: Slime_Normal_Move_0
+  - first:
+      213: -7463961238005935360
+    second: Slime_Normal_Move_1
+  - first:
+      213: 7429376905547448574
+    second: Slime_Normal_Move_2
+  - first:
+      213: 215487104691124699
+    second: Slime_Normal_Move_3
+  - first:
+      213: -3121444147249343079
+    second: Slime_Normal_Move_4
+  - first:
+      213: -5162175734370700866
+    second: Slime_Normal_Move_5
+  - first:
+      213: 8402089421166811307
+    second: Slime_Normal_Move_6
+  - first:
+      213: -5991287584576610807
+    second: Slime_Normal_Move_7
+  - first:
+      213: -6519135870088864597
+    second: Slime_Normal_Move_8
+  - first:
+      213: 6916181138533817641
+    second: Slime_Normal_Move_9
+  - first:
+      213: -5902193298919218156
+    second: Slime_Normal_Move_10
+  - first:
+      213: -501139787925275310
+    second: Slime_Normal_Move_11
+  - first:
+      213: -4254125023723009931
+    second: Slime_Normal_Move_12
+  - first:
+      213: 6097493403774953975
+    second: Slime_Normal_Move_13
+  - first:
+      213: -344962943878964100
+    second: Slime_Normal_Move_14
+  - first:
+      213: 1312323859719752100
+    second: Slime_Normal_Move_15
+  - first:
+      213: -1734959364922587323
+    second: Slime_Normal_Move_16
+  - first:
+      213: -6504045799426550118
+    second: Slime_Normal_Move_17
+  - first:
+      213: 5712652922364642398
+    second: Slime_Normal_Move_18
+  - first:
+      213: -5299646435372663993
+    second: Slime_Normal_Move_19
+  - first:
+      213: 8370288305570892548
+    second: Slime_Normal_Move_20
+  - first:
+      213: 210208397146180823
+    second: Slime_Normal_Move_21
+  - first:
+      213: -6033460940410817760
+    second: Slime_Normal_Move_22
+  - first:
+      213: 3313612194436630422
+    second: Slime_Normal_Move_23
+  - first:
+      213: -1358700408694969356
+    second: Slime_Normal_Move_24
+  - first:
+      213: 2515298857010608936
+    second: Slime_Normal_Move_25
+  - first:
+      213: 7578715881294075968
+    second: Slime_Normal_Move_26
+  - first:
+      213: 2658357363115740810
+    second: Slime_Normal_Move_27
+  - first:
+      213: -3005253266630711584
+    second: Slime_Normal_Move_28
+  - first:
+      213: -6545054498778411263
+    second: Slime_Normal_Move_29
+  - first:
+      213: 3261300865257954769
+    second: Slime_Normal_Move_30
+  - first:
+      213: 4012865800829129220
+    second: Slime_Normal_Move_31
+  - first:
+      213: 8959084840719512359
+    second: Slime_Normal_Move_32
+  - first:
+      213: -4826327768309792045
+    second: Slime_Normal_Move_33
+  - first:
+      213: -6662639051936720944
+    second: Slime_Normal_Move_34
+  - first:
+      213: -3396700887303394140
+    second: Slime_Normal_Move_35
+  - first:
+      213: -6472912678681467455
+    second: Slime_Normal_Move_36
+  - first:
+      213: -4629847475714655854
+    second: Slime_Normal_Move_37
+  - first:
+      213: -2930678246158786900
+    second: Slime_Normal_Move_38
+  - first:
+      213: 731771976327192327
+    second: Slime_Normal_Move_39
+  - first:
+      213: 2505063026720750336
+    second: Slime_Normal_Move_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_Normal_Move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9614ff4af7b55fc20800000000000000
+      internalID: 3239596110750105961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Normal_Move_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0031f5fbcceaa6890800000000000000
+      internalID: -7463961238005935360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Normal_Move_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef085addee27a1760800000000000000
+      internalID: 7429376905547448574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Normal_Move_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9bac841609df200800000000000000
+      internalID: 215487104691124699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d5e2aa312bf8e0647a6041aa03deb25c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slime_Normal_Move_0: 3239596110750105961
+      Slime_Normal_Move_1: -7463961238005935360
+      Slime_Normal_Move_2: 7429376905547448574
+      Slime_Normal_Move_3: 215487104691124699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

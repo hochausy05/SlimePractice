@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 55f4e3306d87c43419bdaccb227ee209
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6273475055782401319
+    second: Slime_Normal_Idle_0
+  - first:
+      213: 6404379048360160125
+    second: Slime_Normal_Idle_1
+  - first:
+      213: 5016387884167125404
+    second: Slime_Normal_Idle_2
+  - first:
+      213: 1622206398294674099
+    second: Slime_Normal_Idle_3
+  - first:
+      213: -4366688898653684057
+    second: Slime_Normal_Idle_4
+  - first:
+      213: -7880757625329017652
+    second: Slime_Normal_Idle_5
+  - first:
+      213: -148242691378334761
+    second: Slime_Normal_Idle_6
+  - first:
+      213: 7261189475291458083
+    second: Slime_Normal_Idle_7
+  - first:
+      213: 1221996454444160374
+    second: Slime_Normal_Idle_8
+  - first:
+      213: -4778997615976901371
+    second: Slime_Normal_Idle_9
+  - first:
+      213: -9171980148314795264
+    second: Slime_Normal_Idle_10
+  - first:
+      213: -3424680656811480594
+    second: Slime_Normal_Idle_11
+  - first:
+      213: -9188702920225933592
+    second: Slime_Normal_Idle_12
+  - first:
+      213: 1175400431076848843
+    second: Slime_Normal_Idle_13
+  - first:
+      213: 373153722675211235
+    second: Slime_Normal_Idle_14
+  - first:
+      213: 3252470764645923329
+    second: Slime_Normal_Idle_15
+  - first:
+      213: 3211905029044045935
+    second: Slime_Normal_Idle_16
+  - first:
+      213: 8266899632982161523
+    second: Slime_Normal_Idle_17
+  - first:
+      213: -6936451868101708218
+    second: Slime_Normal_Idle_18
+  - first:
+      213: 1650652607017988391
+    second: Slime_Normal_Idle_19
+  - first:
+      213: -537363736326023579
+    second: Slime_Normal_Idle_20
+  - first:
+      213: 66579536792153713
+    second: Slime_Normal_Idle_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_Normal_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae0d0dca320f8a0800000000000000
+      internalID: -6273475055782401319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Normal_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b267800dce0e850800000000000000
+      internalID: 6404379048360160125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Normal_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99da53e33acd9540800000000000000
+      internalID: 5016387884167125404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Normal_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba48badf1c338610800000000000000
+      internalID: 1622206398294674099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 449ad27dcd93d064a83dba3964815085
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slime_Normal_Idle_0: -6273475055782401319
+      Slime_Normal_Idle_1: 6404379048360160125
+      Slime_Normal_Idle_2: 5016387884167125404
+      Slime_Normal_Idle_3: 1622206398294674099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
