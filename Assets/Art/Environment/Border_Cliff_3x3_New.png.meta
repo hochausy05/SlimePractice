@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: ba248fb594e75104b91979da10abb936
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4341858484419331380
+    second: Border_Cliff_3x3_New_0
+  - first:
+      213: 1572379226658475298
+    second: Border_Cliff_3x3_New_1
+  - first:
+      213: -7192567178126423952
+    second: Border_Cliff_3x3_New_2
+  - first:
+      213: -1271564630619774964
+    second: Border_Cliff_3x3_New_3
+  - first:
+      213: 7348232593963547650
+    second: Border_Cliff_3x3_New_4
+  - first:
+      213: 322940014621703409
+    second: Border_Cliff_3x3_New_5
+  - first:
+      213: -5631534318278462853
+    second: Border_Cliff_3x3_New_6
+  - first:
+      213: 3993895095548563672
+    second: Border_Cliff_3x3_New_7
+  - first:
+      213: 2559967148506220937
+    second: Border_Cliff_3x3_New_8
+  - first:
+      213: -8925402470515281414
+    second: Border_Cliff_3x3_New_9
+  - first:
+      213: 671714579808680840
+    second: Border_Cliff_3x3_New_10
+  - first:
+      213: -5973720859298797166
+    second: Border_Cliff_3x3_New_11
+  - first:
+      213: -2791090318363229375
+    second: Border_Cliff_3x3_New_12
+  - first:
+      213: 6542166399537154863
+    second: Border_Cliff_3x3_New_13
+  - first:
+      213: 3451688038000127575
+    second: Border_Cliff_3x3_New_14
+  - first:
+      213: 3952448926996902093
+    second: Border_Cliff_3x3_New_15
+  - first:
+      213: 9136747184991658697
+    second: Border_Cliff_3x3_New_16
+  - first:
+      213: -918522245550786906
+    second: Border_Cliff_3x3_New_17
+  - first:
+      213: -2813951842390219402
+    second: Border_Cliff_3x3_New_18
+  - first:
+      213: -4432987573178018645
+    second: Border_Cliff_3x3_New_19
+  - first:
+      213: 6890489540048434565
+    second: Border_Cliff_3x3_New_20
+  - first:
+      213: -2982624811433285178
+    second: Border_Cliff_3x3_New_21
+  - first:
+      213: 1686108986610952503
+    second: Border_Cliff_3x3_New_22
+  - first:
+      213: 6444618218234122736
+    second: Border_Cliff_3x3_New_23
+  - first:
+      213: 486535859745311007
+    second: Border_Cliff_3x3_New_24
+  - first:
+      213: 5905594666640413668
+    second: Border_Cliff_3x3_New_25
+  - first:
+      213: -9171077906930163455
+    second: Border_Cliff_3x3_New_26
+  - first:
+      213: -2184167570063600469
+    second: Border_Cliff_3x3_New_27
+  - first:
+      213: 1070507885397190695
+    second: Border_Cliff_3x3_New_28
+  - first:
+      213: 1885835724953949673
+    second: Border_Cliff_3x3_New_29
+  - first:
+      213: 5774448588167461079
+    second: Border_Cliff_3x3_New_30
+  - first:
+      213: 5156390120990159279
+    second: Border_Cliff_3x3_New_31
+  - first:
+      213: -7983314438713976742
+    second: Border_Cliff_3x3_New_32
+  - first:
+      213: 1343868847475795786
+    second: Border_Cliff_3x3_New_33
+  - first:
+      213: 3103981172682157910
+    second: Border_Cliff_3x3_New_34
+  - first:
+      213: -7641442135438769855
+    second: Border_Cliff_3x3_New_35
+  - first:
+      213: 6921987374517126880
+    second: Border_Cliff_3x3_New_36
+  - first:
+      213: 7969637765245951113
+    second: Border_Cliff_3x3_New_37
+  - first:
+      213: -3247851830436300617
+    second: Border_Cliff_3x3_New_38
+  - first:
+      213: -6285063071249081160
+    second: Border_Cliff_3x3_New_39
+  - first:
+      213: 4936652182180331049
+    second: Border_Cliff_3x3_New_40
+  - first:
+      213: -3359418563597457026
+    second: Border_Cliff_3x3_New_41
+  - first:
+      213: -1516014065797797641
+    second: Border_Cliff_3x3_New_42
+  - first:
+      213: 4810660137543529497
+    second: Border_Cliff_3x3_New_43
+  - first:
+      213: -5238102860028902651
+    second: Border_Cliff_3x3_New_44
+  - first:
+      213: 2025627539561008323
+    second: Border_Cliff_3x3_New_45
+  - first:
+      213: 3590185458539263272
+    second: Border_Cliff_3x3_New_46
+  - first:
+      213: -5991304078027796060
+    second: Border_Cliff_3x3_New_47
+  - first:
+      213: -3593986726493569169
+    second: Border_Cliff_3x3_New_48
+  - first:
+      213: 2716591233545575756
+    second: Border_Cliff_3x3_New_49
+  - first:
+      213: 5617484776225678337
+    second: Border_Cliff_3x3_New_50
+  - first:
+      213: 2929302485293550179
+    second: Border_Cliff_3x3_New_51
+  - first:
+      213: 8700198976962494519
+    second: Border_Cliff_3x3_New_52
+  - first:
+      213: 4242546366011267953
+    second: Border_Cliff_3x3_New_53
+  - first:
+      213: -6027083542207690383
+    second: Border_Cliff_3x3_New_54
+  - first:
+      213: 1070690616703132288
+    second: Border_Cliff_3x3_New_55
+  - first:
+      213: -6929957116331785891
+    second: Border_Cliff_3x3_New_56
+  - first:
+      213: 4808136828507966954
+    second: Border_Cliff_3x3_New_57
+  - first:
+      213: 7463168528792377062
+    second: Border_Cliff_3x3_New_58
+  - first:
+      213: -2894550869083818507
+    second: Border_Cliff_3x3_New_59
+  - first:
+      213: -8911158549553210790
+    second: Border_Cliff_3x3_New_60
+  - first:
+      213: 2050369354342556507
+    second: Border_Cliff_3x3_New_61
+  - first:
+      213: 1058854284729965202
+    second: Border_Cliff_3x3_New_62
+  - first:
+      213: 6760574600352385229
+    second: Border_Cliff_3x3_New_63
+  - first:
+      213: -3824549489855856035
+    second: Border_Cliff_3x3_New_64
+  - first:
+      213: 6608985802670473912
+    second: Border_Cliff_3x3_New_65
+  - first:
+      213: 7464740676022236469
+    second: Border_Cliff_3x3_New_66
+  - first:
+      213: 1409603496280359991
+    second: Border_Cliff_3x3_New_67
+  - first:
+      213: -6628994834600037775
+    second: Border_Cliff_3x3_New_68
+  - first:
+      213: 6867053355143121918
+    second: Border_Cliff_3x3_New_69
+  - first:
+      213: -2607940557312364899
+    second: Border_Cliff_3x3_New_70
+  - first:
+      213: -4520746571145358865
+    second: Border_Cliff_3x3_New_71
+  - first:
+      213: -2153542937016000716
+    second: Border_Cliff_3x3_New_72
+  - first:
+      213: -7079598444369870274
+    second: Border_Cliff_3x3_New_73
+  - first:
+      213: 2912642408288532372
+    second: Border_Cliff_3x3_New_74
+  - first:
+      213: -5420419932640541227
+    second: Border_Cliff_3x3_New_75
+  - first:
+      213: 2529371596143020147
+    second: Border_Cliff_3x3_New_76
+  - first:
+      213: 4342236150995251398
+    second: Border_Cliff_3x3_New_77
+  - first:
+      213: -4896861951451777381
+    second: Border_Cliff_3x3_New_78
+  - first:
+      213: 7700683243309844753
+    second: Border_Cliff_3x3_New_79
+  - first:
+      213: 8313752064435817074
+    second: Border_Cliff_3x3_New_80
+  - first:
+      213: -9216495220201165593
+    second: Border_Cliff_3x3_New_81
+  - first:
+      213: -4609457529416176706
+    second: Border_Cliff_3x3_New_82
+  - first:
+      213: -482204416032204185
+    second: Border_Cliff_3x3_New_83
+  - first:
+      213: -5379564948047949891
+    second: Border_Cliff_3x3_New_84
+  - first:
+      213: -3764113113080131165
+    second: Border_Cliff_3x3_New_85
+  - first:
+      213: -5947225254703608484
+    second: Border_Cliff_3x3_New_86
+  - first:
+      213: 8115018381120669414
+    second: Border_Cliff_3x3_New_87
+  - first:
+      213: -4242379169649793228
+    second: Border_Cliff_3x3_New_88
+  - first:
+      213: 7221904180512498006
+    second: Border_Cliff_3x3_New_89
+  - first:
+      213: -659282056872518432
+    second: Border_Cliff_3x3_New_90
+  - first:
+      213: -8001372465813878360
+    second: Border_Cliff_3x3_New_91
+  - first:
+      213: -2603662636006294547
+    second: Border_Cliff_3x3_New_92
+  - first:
+      213: 5591368207242830481
+    second: Border_Cliff_3x3_New_93
+  - first:
+      213: -3401693684283374935
+    second: Border_Cliff_3x3_New_94
+  - first:
+      213: 4677900139417506103
+    second: Border_Cliff_3x3_New_95
+  - first:
+      213: 8915618996013890972
+    second: Border_Cliff_3x3_New_96
+  - first:
+      213: 8244963158493807548
+    second: Border_Cliff_3x3_New_97
+  - first:
+      213: -1702926046201224963
+    second: Border_Cliff_3x3_New_98
+  - first:
+      213: -2871537588681340793
+    second: Border_Cliff_3x3_New_99
+  - first:
+      213: -6241155031619144476
+    second: Border_Cliff_3x3_New_100
+  - first:
+      213: 3611655922038435189
+    second: Border_Cliff_3x3_New_101
+  - first:
+      213: -6956467223359770359
+    second: Border_Cliff_3x3_New_102
+  - first:
+      213: -3928194277750469923
+    second: Border_Cliff_3x3_New_103
+  - first:
+      213: -2865789054614695466
+    second: Border_Cliff_3x3_New_104
+  - first:
+      213: 2875742591272471453
+    second: Border_Cliff_3x3_New_105
+  - first:
+      213: -5715511698674370399
+    second: Border_Cliff_3x3_New_106
+  - first:
+      213: -2746343461287993572
+    second: Border_Cliff_3x3_New_107
+  - first:
+      213: -8174326046214486825
+    second: Border_Cliff_3x3_New_108
+  - first:
+      213: -5207281066524002287
+    second: Border_Cliff_3x3_New_109
+  - first:
+      213: -1870457622386437649
+    second: Border_Cliff_3x3_New_110
+  - first:
+      213: 658808367863269730
+    second: Border_Cliff_3x3_New_111
+  - first:
+      213: 1244306826824173813
+    second: Border_Cliff_3x3_New_112
+  - first:
+      213: 5688078421229669290
+    second: Border_Cliff_3x3_New_113
+  - first:
+      213: -560427575047783856
+    second: Border_Cliff_3x3_New_114
+  - first:
+      213: -5972982909310521008
+    second: Border_Cliff_3x3_New_115
+  - first:
+      213: 7788660365126235433
+    second: Border_Cliff_3x3_New_116
+  - first:
+      213: -3306285574012548737
+    second: Border_Cliff_3x3_New_117
+  - first:
+      213: 5296253103442608282
+    second: Border_Cliff_3x3_New_118
+  - first:
+      213: 6167286803429902485
+    second: Border_Cliff_3x3_New_119
+  - first:
+      213: 8083714037075702335
+    second: Border_Cliff_3x3_New_120
+  - first:
+      213: 583549573342688087
+    second: Border_Cliff_3x3_New_121
+  - first:
+      213: 2987209376559146215
+    second: Border_Cliff_3x3_New_122
+  - first:
+      213: -5175535571808126120
+    second: Border_Cliff_3x3_New_123
+  - first:
+      213: -4684729889332519389
+    second: Border_Cliff_3x3_New_124
+  - first:
+      213: 5621232915447706472
+    second: Border_Cliff_3x3_New_125
+  - first:
+      213: 7158538191234239616
+    second: Border_Cliff_3x3_New_126
+  - first:
+      213: 2914955414704087129
+    second: Border_Cliff_3x3_New_127
+  - first:
+      213: 5333019357539872000
+    second: Border_Cliff_3x3_New_128
+  - first:
+      213: -6407631617052856950
+    second: Border_Cliff_3x3_New_129
+  - first:
+      213: 1744443482738774466
+    second: Border_Cliff_3x3_New_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 872
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43584d49941614c30800000000000000
+      internalID: 4341858484419331380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 872
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d8e29639632d510800000000000000
+      internalID: 1572379226658475298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 872
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07804a4624ede2c90800000000000000
+      internalID: -7192567178126423952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 472
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0025fa94be7a5ee0800000000000000
+      internalID: -1271564630619774964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 456
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cf4229c9a2af560800000000000000
+      internalID: 7348232593963547650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_5
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 452
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc39477b305b7400800000000000000
+      internalID: 322940014621703409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72379aef55c8d1b0800000000000000
+      internalID: -5631534318278462853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 33
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0d858cd6a2d6730800000000000000
+      internalID: 3993895095548563672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Cliff_3x3_New_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 33
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989026bee84d68320800000000000000
+      internalID: 2559967148506220937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26bc3caa641f7c2408b5a88acca14238
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":418.0,"y":418.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Border_Cliff_3x3_New_0: 4341858484419331380
+      Border_Cliff_3x3_New_1: 1572379226658475298
+      Border_Cliff_3x3_New_2: -7192567178126423952
+      Border_Cliff_3x3_New_3: -1271564630619774964
+      Border_Cliff_3x3_New_4: 7348232593963547650
+      Border_Cliff_3x3_New_5: 322940014621703409
+      Border_Cliff_3x3_New_6: -5631534318278462853
+      Border_Cliff_3x3_New_7: 3993895095548563672
+      Border_Cliff_3x3_New_8: 2559967148506220937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
